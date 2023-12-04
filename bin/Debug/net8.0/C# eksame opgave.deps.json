@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# eksame opgave/1.0.0": {
+        "runtime": {
+          "C# eksame opgave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# eksame opgave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
