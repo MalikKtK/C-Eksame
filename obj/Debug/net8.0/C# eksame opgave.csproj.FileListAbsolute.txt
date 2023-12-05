@@ -7,6 +7,7 @@ C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.Genera
 C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.AssemblyInfoInputs.cache
 C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.AssemblyInfo.cs
 C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.csproj.CoreCompileInputs.cache
+C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.sourcelink.json
 C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.dll
 C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\refint\C# eksame opgave.dll
 C:\Users\kutuk\Desktop\C# eksame opgave\obj\Debug\net8.0\C# eksame opgave.pdb
